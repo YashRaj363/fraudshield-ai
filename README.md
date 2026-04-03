@@ -10,7 +10,7 @@ The system focuses on high recall to ensure maximum fraud detection and includes
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to try the app](PASTE_YOUR_STREAMLIT_LINK_HERE)
+👉 [Click here to try the app](https://fraudshield-ai-nhbwcsqxrfvijywymo2bqg.streamlit.app/)
 
 ---
 
