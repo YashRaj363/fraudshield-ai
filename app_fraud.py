@@ -8,7 +8,7 @@ import joblib
 # ----------------------------
 st.set_page_config(page_title="Fraud Detector 🚀", page_icon="🛡️", layout="centered")
 
-st.title("🛡️ GenZ Fraud Detection AI")
+st.title("🛡️ FraudSheild AI")
 st.caption("Detect suspicious transactions in real-time ⚡")
 
 # ----------------------------
